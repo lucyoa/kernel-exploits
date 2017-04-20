@@ -1,0 +1,15 @@
+# half-nelson 
+
+## Description
+* Author: Jon Oberheide
+* CVE: 2010-4073
+* Kernels: 2.6.0, 2.6.1, 2.6.2, 2.6.3, 2.6.4, 2.6.5, 2.6.6, 2.6.7, 2.6.8, 2.6.9, 2.6.10, 2.6.11, 2.6.12, 2.6.13, 2.6.14, 2.6.15, 2.6.16, 2.6.17, 2.6.18, 2.6.19, 2.6.20, 2.6.21, 2.6.22, 2.6.23, 2.6.24, 2.6.25, 2.6.26, 2.6.27, 2.6.28, 2.6.29, 2.6.30, 2.6.31, 2.6.32, 2.6.33, 2.6.34, 2.6.35, 2.6.36
+* Reference: http://www.exploit-db.com/exploits/17787/
+
+## Exploits
+
+### [half-nelson3.c](half-nelson3.c) - (SHA1: 836a999f1e1188ddc42de0ab466f2de217f42220)
+### [half-nelson3](half-nelson3) - (SHA1: b905636de7e708fd1e6f5c0432ee591b15e4479f)
+This binary has been verified on:
+* Ubuntu 10.04 - Linux ubuntu 2.6.32-21-server #32-Ubuntu x86_64  
+* Ubuntu 9.10 - 2.6.31-14-server #48-Ubuntu x86_64  
